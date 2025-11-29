@@ -1,0 +1,22 @@
+# Build directory
+Build/
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+
+# Swift build artifacts
+*.o
+*.dSYM/
+*.swiftdoc
+*.swiftmodule
+
+# Editors
+.vscode/
+*.xcworkspace
+*.xcuserdata
+
+# Temporary files
+*.tmp
+*~
